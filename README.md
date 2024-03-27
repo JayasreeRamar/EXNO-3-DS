@@ -31,8 +31,42 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![alt text](<Screenshot 2024-03-27 100402.png>)
+![alt text](<Screenshot 2024-03-27 100414.png>)
+![alt text](<Screenshot 2024-03-27 100420.png>)
+![alt text](<Screenshot 2024-03-27 100425.png>)
+![alt text](<Screenshot 2024-03-27 100432.png>)
+![alt text](<Screenshot 2024-03-27 100440.png>)
+![alt text](<Screenshot 2024-03-27 100452.png>)
+![alt text](<Screenshot 2024-03-27 100504.png>)
+![alt text](<Screenshot 2024-03-27 100513.png>)
+![alt text](<Screenshot 2024-03-27 100520.png>)
+![alt text](<Screenshot 2024-03-27 100530.png>)
+![alt text](<Screenshot 2024-03-27 100540.png>)
+![alt text](<Screenshot 2024-03-27 100548.png>)
+![alt text](<Screenshot 2024-03-27 100601-1.png>)
+![alt text](<Screenshot 2024-03-27 100611.png>)
+![alt text](<Screenshot 2024-03-27 100619.png>)
+![alt text](<Screenshot 2024-03-27 100646.png>)
+![alt text](<Screenshot 2024-03-27 100657.png>)
+![alt text](<Screenshot 2024-03-27 100707.png>)
+![alt text](<Screenshot 2024-03-27 100715.png>)
+![alt text](<Screenshot 2024-03-27 100731.png>)
+![alt text](<Screenshot 2024-03-27 100747.png>)
+![alt text](<Screenshot 2024-03-27 100756.png>)
+![alt text](<Screenshot 2024-03-27 100807.png>)
+![alt text](<Screenshot 2024-03-27 100821.png>)
+![alt text](<Screenshot 2024-03-27 100831.png>)
+![alt text](<Screenshot 2024-03-27 100846.png>)
+![alt text](<Screenshot 2024-03-27 100909.png>)
+![alt text](<Screenshot 2024-03-27 100918.png>)
+![alt text](<Screenshot 2024-03-27 100928.png>)
+![alt text](<Screenshot 2024-03-27 100937.png>)
+![alt text](<Screenshot 2024-03-27 100947.png>)
+![alt text](<Screenshot 2024-03-27 100957.png>)
+![alt text](<Screenshot 2024-03-27 101005.png>)
+![alt text](<Screenshot 2024-03-27 101015.png>)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the codes are executted successfully.
 
        
