@@ -55,6 +55,6 @@ We use this categorical data encoding technique when the features are nominal(do
 ![alt text](<Screenshot 2024-03-31 200613.png>) 
 ![alt text](<Screenshot 2024-03-31 200621.png>)
 # RESULT:
-Thus the codes are executted successfully.
+Thus the codes are executed successfully.
 
        
